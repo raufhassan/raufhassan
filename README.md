@@ -51,6 +51,8 @@ Here are some ideas to get you started:
     <a href="#"><img alt="NestJs" src="https://custom-icon-badges.demolab.com/badge/jest-ea2845.svg?logo=nestjs"></a>
     <a href="#"><img alt="Jest" src="https://custom-icon-badges.demolab.com/badge/jest-ff3c0c.svg?logo=jest"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+     <a href="#"><img alt="Next" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.Js&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-fff.svg?logo=graphql&logoColor=e10098"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
