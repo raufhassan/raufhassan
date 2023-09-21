@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="NestJs" src="https://custom-icon-badges.demolab.com/badge/jest-ea2845.svg?logo=nestjs"></a>
+    <a href="#"><img alt="NestJs" src="https://custom-icon-badges.demolab.com/badge/nest-ea2845.svg?logo=nestjs"></a>
     <a href="#"><img alt="Jest" src="https://custom-icon-badges.demolab.com/badge/jest-ff3c0c.svg?logo=jest"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
      <a href="#"><img alt="Next" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.Js&logoColor=white"></a>
